@@ -1,0 +1,49 @@
+﻿  BenFields_Proj7a.cpp
+c:\users\ben\documents\oregonstateuniversity\cs 575\week 10\newvs2015b\newvs2015b\glui.h(758): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+BenFields_Proj7a.cpp(373): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol _clCreateBuffer@24
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol _clEnqueueNDRangeKernel@36
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol "public: void __thiscall GLUI::close(void)" (?close@GLUI@@QAEXXZ)
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol "public: void __thiscall GLUI::sync_live(void)" (?sync_live@GLUI@@QAEXXZ)
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol "public: void __thiscall GLUI::set_main_gfx_window(int)" (?set_main_gfx_window@GLUI@@QAEXH@Z)
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol "public: class GLUI_Panel * __thiscall GLUI::add_panel(char *,int)" (?add_panel@GLUI@@QAEPAVGLUI_Panel@@PADH@Z)
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol "public: class GLUI_StaticText * __thiscall GLUI::add_statictext(char *)" (?add_statictext@GLUI@@QAEPAVGLUI_StaticText@@PAD@Z)
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol "public: class GLUI_Button * __thiscall GLUI::add_button_to_panel(class GLUI_Panel *,char *,int,void (__cdecl*)(int))" (?add_button_to_panel@GLUI@@QAEPAVGLUI_Button@@PAVGLUI_Panel@@PADHP6AXH@Z@Z)
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol "public: class GLUI_Checkbox * __thiscall GLUI::add_checkbox(char *,int *,int,void (__cdecl*)(int))" (?add_checkbox@GLUI@@QAEPAVGLUI_Checkbox@@PADPAHHP6AXH@Z@Z)
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol "public: class GLUI_Translation * __thiscall GLUI::add_translation_to_panel(class GLUI_Panel *,char *,int,float *,int,void (__cdecl*)(int))" (?add_translation_to_panel@GLUI@@QAEPAVGLUI_Translation@@PAVGLUI_Panel@@PADHPAMHP6AXH@Z@Z)
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol "public: class GLUI_Rotation * __thiscall GLUI::add_rotation_to_panel(class GLUI_Panel *,char *,float *,int,void (__cdecl*)(int))" (?add_rotation_to_panel@GLUI@@QAEPAVGLUI_Rotation@@PAVGLUI_Panel@@PADPAMHP6AXH@Z@Z)
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol "public: void __thiscall GLUI::add_separator(void)" (?add_separator@GLUI@@QAEXXZ)
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol "public: void __thiscall GLUI::add_column_to_panel(class GLUI_Panel *,int)" (?add_column_to_panel@GLUI@@QAEXPAVGLUI_Panel@@H@Z)
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol _clBuildProgram@24
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol _clReleaseCommandQueue@4
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol _clReleaseProgram@4
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol _clReleaseKernel@4
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol _clCreateCommandQueue@20
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol _clWaitForEvents@8
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol _clFinish@4
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol __imp____glewBindBuffer
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol _clGetDeviceIDs@24
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol "public: void __thiscall GLUI_Rotation::set_spin(float)" (?set_spin@GLUI_Rotation@@QAEXM@Z)
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol _clCreateContext@24
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol _clEnqueueMarker@8
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol _clEnqueueReleaseGLObjects@24
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol __imp____glewUnmapBuffer
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol __imp____glewBufferData
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol _clGetPlatformIDs@12
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol _clGetDeviceInfo@20
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol _clReleaseMemObject@4
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol _clEnqueueAcquireGLObjects@24
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol "public: class GLUI * __thiscall GLUI_Master_Object::create_glui(char *,long,int,int)" (?create_glui@GLUI_Master_Object@@QAEPAVGLUI@@PADJHH@Z)
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol "public: void __thiscall GLUI_Master_Object::set_glutIdleFunc(void (__cdecl*)(void))" (?set_glutIdleFunc@GLUI_Master_Object@@QAEXP6AXXZ@Z)
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol __imp____glewMapBuffer
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol _clGetProgramBuildInfo@24
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol _clEnqueueWriteBuffer@36
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol _clCreateFromGLBuffer@20
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol _clCreateKernel@12
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol _clGetProgramInfo@20
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol _clCreateProgramWithSource@20
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol __imp____glewGenBuffers
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol _clSetKernelArg@16
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol "class GLUI_Master_Object GLUI_Master" (?GLUI_Master@@3VGLUI_Master_Object@@A)
+BenFields_Proj7a.obj : error LNK2001: unresolved external symbol __imp__glewInit@0
+C:\Users\Ben\Documents\OregonStateUniversity\CS 575\Week 10\NewVS2015B\NewVS2015B\Release\NewVS2015B.exe : fatal error LNK1120: 45 unresolved externals
